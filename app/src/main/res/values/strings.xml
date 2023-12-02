@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Sgroser</string>
+    <string name="addToCard">Add To Card</string>
+
+
 </resources>
